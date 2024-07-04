@@ -1,0 +1,7 @@
+owner: nedwinvivek@gmail.com
+runtimeInfo:
+  mainFunction: predict_weather
+  mainFunctionArgs:
+    - days_from_now:int
+  pythonVersion: '3.9'
+schemaVersion: 2
