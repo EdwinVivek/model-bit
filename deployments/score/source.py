@@ -12,5 +12,6 @@ def score(lead_features: pd.DataFrame) -> np.ndarray:
 
 # to run locally via git & terminal, uncomment the following lines
 # if __name__ == "__main__":
-#   result = score(...)
+#   import pandas as pd
+#   result = score(pd.DataFrame(...))
 #   print(result)
