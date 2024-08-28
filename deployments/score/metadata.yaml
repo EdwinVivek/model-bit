@@ -1,45 +1,8 @@
 owner: nedwinvivek@gmail.com
 runtimeInfo:
-  dataframeModeColumns:
-    - dtype: int64
-      example: 56
-      name: age
-    - dtype: float64
-      example: 36.1
-      name: bmi
-    - dtype: bool
-      example: true
-      name: sex_male
-    - dtype: bool
-      example: false
-      name: smoker_yes
-    - dtype: bool
-      example: false
-      name: region_northwest
-    - dtype: bool
-      example: false
-      name: region_southeast
-    - dtype: bool
-      example: true
-      name: region_southwest
-    - dtype: bool
-      example: false
-      name: children_1
-    - dtype: bool
-      example: false
-      name: children_2
-    - dtype: bool
-      example: true
-      name: children_3
-    - dtype: bool
-      example: false
-      name: children_4
-    - dtype: bool
-      example: false
-      name: children_5
   mainFunction: score
   mainFunctionArgs:
     - lead_features:DataFrame
     - return:ndarray
-  pythonVersion: '3.9'
+  pythonVersion: '3.12'
 schemaVersion: 2
