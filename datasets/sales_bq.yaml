@@ -1,0 +1,7 @@
+createdAt: 2024-09-25T19:06:15.761Z
+modifiedAt: 2024-09-25T19:06:15.761Z
+query: select * from newdb.sales
+sqlModifiedAt: 2024-09-25T19:06:15.761Z
+owner: nedwinvivek@gmail.com
+warehouse: bigquery/bigq_wh
+schemaVersion: 2
